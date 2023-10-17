@@ -1,2 +1,2 @@
-# API StarWars Paralelo
- Conexion API en paralelo
+# API StarWars Paralelo Javier
+ Conexion API en paralelo Javier
